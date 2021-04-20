@@ -1,3 +1,2 @@
 <h1 align = "center"> Olá 👋, sou Jony Wesley </h1>
-<h3 align = "center"> Developer Frontend Júnior </h3>
-
+<p align="center">Atualmente Curso Análise e Desenvolvimento de Sistemas, e estou focado no Desenvolvimento web</p>
