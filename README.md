@@ -3,10 +3,9 @@
 <ul>
   <li>✔️ HTML5</li>
   <li>✔️ CSS3</li>
-  <li>✔️ JavaScript</li>
-  <li>✔️ Bootstrap</li>
-  <li>✔️ Sass</li>
-</ul>
+  <li>✔️ JavaScript</li> 
+  <li>✔️ JavaScript</li>  
+  
 
 <p align="center">💻 Atualmente estou trabalhando em projetos e estudando muito sobre Desenvolvimento Web</p>
 <p align="center">💬 Você pode entrar em contato comigo por:</p>
