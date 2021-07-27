@@ -2,9 +2,8 @@
 <p align="center">Atualmente Curso Análise e Desenvolvimento de Sistemas, e estou focado no Desenvolvimento Web - FrontEnd</p>
 <ul>
   <li>✔️ HTML5</li>
-  <li>✔️ CSS3</li>
+  <li>✔️ CSS3</ li>
   <li>✔️ JavaScript</li> 
-  <li>✔️ JavaScript</li>  
   
 
 <p align="center">💻 Atualmente estou trabalhando em projetos e estudando muito sobre Desenvolvimento Web</p>
