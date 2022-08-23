@@ -1,12 +1,12 @@
-<h1 align = "center"> Olá 👋, sou Jony We4sley </h1>
+<h1 align = "center"> Olá 👋, sou Jony Wesley </h1>
 <p align="center">Atualmente Curso Análise e Desenvolvimento de Sistemas, e estou focado no Desenvolvimento Web - FrontEnd</p>
 <ul>
-  <li>✔️ HTML5</li>
-  <li>✔️ CSS3</ li>
-  <li>✔️ JavaScript</li>
+  <li>✔️ Insista</li>
+  <li>✔️ Persista</li>
+  <li>✔️ E Nunca Desista</li>
         
 
-<p align="center">💻 Atualmente estou trabalhando em projetos e estudando muito sobre Desenvolvimento Web</p>
+<p align="center">💻 Atualmente estou trabalhando em projetos e estudando muito sobre Desenvolvimento Web - Frontend</p>
 <p align="center">💬 Você pode entrar em contato comigo por:</p>
 
 <ul>
